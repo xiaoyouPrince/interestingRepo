@@ -15,3 +15,4 @@
 **学习·书籍**
 
 1. 一些技术书籍 https://github.com/royeo/awesome-programming-books
+2. iOS - 核心动画 https://github.com/qunten/iOS-Core-Animation-Advanced-Techniques
