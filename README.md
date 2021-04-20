@@ -10,6 +10,7 @@
 
 **工具集合 - OC**
 1. block 静态库工具，通常都是写分类，这个直接写成静态库，思路清奇，值得学习： https://github.com/BlocksKit/BlocksKit
+2. 超好用的调试工具，这种工具的代码也是高度抽象具体业务才能写出来的。非常值得学习： https://github.com/FLEXTool/FLEX
 
 **工具集合 - Swift**
 
