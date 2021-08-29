@@ -22,3 +22,6 @@
 
 1. 一些技术书籍 https://github.com/royeo/awesome-programming-books
 2. iOS - 核心动画 https://github.com/qunten/iOS-Core-Animation-Advanced-Techniques
+
+**C语言一个可视化小工具**
+1. https://github.com/anael-seghezzi/CToy
