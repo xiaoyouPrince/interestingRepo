@@ -25,3 +25,7 @@
 
 **C语言一个可视化小工具**
 1. https://github.com/anael-seghezzi/CToy
+
+**IM 相关**
+以后写IM相关功能，可以尝试使用免费版本
+https://github.com/GetStream/stream-chat-swift
