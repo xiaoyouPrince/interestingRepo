@@ -34,3 +34,9 @@
 **图片裁剪制作**
 
 1. 模仿系统 Photos App 可以对图片做一些裁剪设置的小工具 https://github.com/guoyingtao/Mantis
+
+**图片选择器**
+
+1. 一款图片/视频选择器-支持LivePhoto、GIF选择、iCloud/网络资源在线下载、图片/视频编辑 https://github.com/SilenceLove/HXPhotoPicker
+2. 一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+ https://github.com/banchichen/TZImagePickerController
+
