@@ -40,3 +40,6 @@
 1. 一款图片/视频选择器-支持LivePhoto、GIF选择、iCloud/网络资源在线下载、图片/视频编辑 https://github.com/SilenceLove/HXPhotoPicker
 2. 一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+ https://github.com/banchichen/TZImagePickerController
 
+**好用的二维码识别和生成工具**
+1. https://github.com/MxABC/swiftScan
+
