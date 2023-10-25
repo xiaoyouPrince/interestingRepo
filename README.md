@@ -41,5 +41,11 @@
 2. 一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+ https://github.com/banchichen/TZImagePickerController
 
 **好用的二维码识别和生成工具**
+
 1. https://github.com/MxABC/swiftScan
+
+**图片轮播图 Banner**
+
+1. 电影票卡片式无限自动轮播图 https://github.com/PageGuo/NewPagedFlowView
+2. Autoscroll Banner. 无限循环图片、文字轮播器。 https://github.com/gsdios/SDCycleScrollView
 
