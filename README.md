@@ -24,8 +24,13 @@
 2. iOS - 核心动画 https://github.com/qunten/iOS-Core-Animation-Advanced-Techniques
 
 **C语言一个可视化小工具**
+
 1. https://github.com/anael-seghezzi/CToy
 
 **IM 相关**
-以后写IM相关功能，可以尝试使用免费版本
-https://github.com/GetStream/stream-chat-swift
+
+1. 以后写IM相关功能，可以尝试使用免费版本 https://github.com/GetStream/stream-chat-swift
+
+**图片裁剪制作**
+
+1. 模仿系统 Photos App 可以对图片做一些裁剪设置的小工具 https://github.com/guoyingtao/Mantis
