@@ -6,6 +6,7 @@
 
 1. 一组iOS view 动画的库 https://github.com/icanzilb/EasyAnimation
 2. 一组iOS View Controller 转场动画相关的 Library。 [https://github.com/HeroTransitions/Hero](https://github.com/HeroTransitions/Hero)
+3. 一个提升 iOS View 的动画库 https://github.com/marcosgriselli/ViewAnimator 
 
 
 **工具集合 - OC**
