@@ -62,3 +62,7 @@
 
 1. 开源模型创建工具 https://github.com/DynamoDS/Dynamo
 
+## 权限管理工具
+
+1. iOS 开发权限管理工具 https://github.com/sparrowcode/PermissionsKit 值得学习, 找时间自己封装一套符合自己常用的工具, 可以借鉴其 README.md, 已经点赞
+
