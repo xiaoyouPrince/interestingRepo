@@ -66,3 +66,7 @@
 
 1. iOS 开发权限管理工具 https://github.com/sparrowcode/PermissionsKit 值得学习, 找时间自己封装一套符合自己常用的工具, 可以借鉴其 README.md, 已经点赞
 
+## Xcode
+
+1. 多语言自动翻译? https://github.com/appdecostudio/SwiftPolyglot/
+
