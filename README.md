@@ -70,3 +70,6 @@
 
 1. 多语言自动翻译? https://github.com/appdecostudio/SwiftPolyglot/
 
+## 滑动截图
+1. 方便的截图工具，有时间看看 https://github.com/dequin-cl/Screenshots
+
