@@ -18,6 +18,7 @@
 1. Swift开发的一组加速工具，方便开发 https://github.com/Tliens/SpeedySwift
 2. 一组Swift分类工具，加速你的开发 https://github.com/SwifterSwift/SwifterSwift
 3. UITableViewCell 添加侧滑功能的优秀工具 https://github.com/SwipeCellKit/SwipeCellKit
+4. SwiftyGif gif 图片的加载工具 https://github.com/alexiscreuzot/SwiftyGif
 
 **学习·书籍**
 
